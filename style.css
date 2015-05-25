@@ -1,0 +1,20 @@
+/*Id specific*/
+#es
+{
+	padding-top:auto;
+	padding-bottom: 10px;
+}
+#search-bar
+{
+	width:400px;
+}
+
+/*Class specific*/
+
+/*Tag Specific*/
+body
+{
+   width:80%;
+   padding-left:10%;
+   padding-right:10%; 
+}
